@@ -1,0 +1,20 @@
+[project]
+name = "historical-dd-automation"
+version = "0.1.0"
+description = "End-to-end historical due diligence automation system with evidence tracking, chain-of-title analysis, and narrative reporting."
+requires-python = ">=3.10"
+dependencies = [
+  "fastapi>=0.110",
+  "uvicorn[standard]>=0.27",
+  "pydantic>=2.6",
+  "pydantic-settings>=2.2",
+  "sqlalchemy>=2.0",
+  "python-multipart>=0.0.9",
+]
+
+[project.optional-dependencies]
+postgres = ["psycopg[binary]>=3.1"]
+dev = ["ruff>=0.4", "pytest>=8.0"]
+
+[tool.ruff]
+line-length = 100
