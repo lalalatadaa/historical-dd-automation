@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Database (local dev only)
+app.db
+
+# Local data & exports
+data/
+
+# OS
+.DS_Store
