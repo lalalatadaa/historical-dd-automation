@@ -1,7 +1,3 @@
-Below is a complete, updated README.md ready to paste directly into your repository. It is written so a non-technical user (you, on iPhone) can still operate the system confidently, while remaining professional and accurate.
-
-⸻
-
 Historical Due Diligence Automation System
 
 End-to-end historical due diligence automation for land, title, and entity research with evidence tracking, chain-of-title analysis, conflict detection, and narrative reporting.
@@ -275,9 +271,3 @@ It is a professional historical due diligence engine designed to:
 	•	increase accuracy
 	•	preserve evidence
 	•	and tell the most honest story possible
-
-When you’re ready, say:
-
-“Next step”
-
-and we’ll continue together, one action at a time.
